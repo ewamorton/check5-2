@@ -1,0 +1,42 @@
+@charset "UTF-8";
+.myblue {
+	background-color:#8F99CA
+}
+
+.myred {
+    background-color: #FE0000 
+	
+}
+
+.banskybio { 
+	color: #FFFFFF;
+	font-weight: bold;
+	background-color: grey; 
+	height: 110px;
+}
+
+.webitle { 
+	color: #FFFFFF; 
+	font-weight: bold;
+}
+
+.myheader {
+	background-image: url("../images/header_bg.jpg");
+	height:200px;
+	background-size: cover;
+	
+}
+
+.myboxsize {
+	height: 600px;
+	
+}
+
+.banner {
+	background-image: url("../images/movingbanner.gif");
+	height: 250px
+}
+
+body {
+	background-image: url("../images/greybackgroun.jpg")
+}
