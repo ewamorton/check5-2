@@ -1,42 +1,65 @@
 @charset "UTF-8";
-.myblue {
-	background-color:#8F99CA
-}
-
-.myred {
-    background-color: #FE0000 
-	
-}
-
-.banskybio { 
-	color: #FFFFFF;
-	font-weight: bold;
-	background-color: grey; 
-	height: 245px;
-}
-
-.webitle { 
-	color: #FFFFFF; 
-	font-weight: bold;
-}
-
-.myheader {
-	background-image: url("../images/header_bg.jpg");
-	height:200px;
-	background-size: cover;
-	
-}
-
-.myboxsize {
-	height: 600px;
-	
-}
-
-.banner {
-	background-image: url("../images/movingbanner.gif");
-	height: 250px
-}
+@import url("../../check4_prj4_final/css/styles.css");
 
 body {
-	background-image: url("../images/greybackgroun.jpg")
+	background-image: url("../../../../Desktop/check-4/images/wallpaper-patter.jpg");
+	margin: 0; padding: 0; border: 0; font-size: 100%;
+}
+
+.button {
+	background-color: beige;
+	width: 120px;
+	height: 64px;
+	border-radius: 50px;
+	margin-left: 32px;
+	margin-top: 100px;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+}
+
+.button:hover{
+	background-color: chartreuse
+}
+
+nav {
+	display: flex;
+	flex-direction: row;
+}
+
+.navbuttons {
+	text-decoration: none;
+	color: cadetblue
+}
+
+.googlefont {
+	margin-top: -20px;
+	font-family: 'DotGothic16', sans-serif;
+}
+
+
+
+.hoodies {
+	background-color: burlywood;
+	width:876px;
+	height: 864px;
+	margin-left: auto;
+	margin-right:auto;
+	padding-left: 12px;
+	padding-right: 12px;
+}
+
+
+.stussyhoodie{
+	float:left;
+	padding-right: 15px;
+}
+.header1 {
+	background-color: aliceblue;
+	background-image: url("../../../../Desktop/check-4/images/city.png");
+	width:900px;
+	height: 264px;
+	margin-left:auto;
+	margin-right: auto;
 }
