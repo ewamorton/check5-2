@@ -2,7 +2,7 @@
 
 
 body {
-	background-image: url("../../../../Desktop/check-4/images/wallpaper-patter.jpg");
+	background-image: url("../images/greybackground.jpg");
 	margin: 0; padding: 0; border: 0; font-size: 100%;
 }
 
@@ -56,7 +56,7 @@ nav {
 }
 .header1 {
 	background-color: aliceblue;
-	background-image: url("../../../../Desktop/check-4/images/city.png");
+	background-image: url("../images/banskyheader.jpg");
 	width:900px;
 	height: 264px;
 	margin-left:auto;
