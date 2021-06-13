@@ -26,7 +26,6 @@ body {
 nav {
 	display: flex;
 	flex-direction: row;
-	background-image: url(../images/movingbanner.gif);
 }
 
 .navbuttons {
