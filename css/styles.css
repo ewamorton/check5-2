@@ -38,23 +38,7 @@ nav {
 }
 
 
-
-.hoodies {
-	background-color: burlywood;
-	width:876px;
-	height: 864px;
-	margin-left: auto;
-	margin-right:auto;
-	padding-left: 12px;
-	padding-right: 12px;
-}
-
-
-.stussyhoodie{
-	float:left;
-	padding-right: 15px;
-}
-.header1 {
+.row {
 	background-color: aliceblue;
 	background-image: url("../images/movingbanner.gif");
 	width:900px;
