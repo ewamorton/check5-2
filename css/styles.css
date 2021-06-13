@@ -26,6 +26,7 @@ body {
 nav {
 	display: flex;
 	flex-direction: row;
+	background-image: url(../images/movingbanner.gif);
 }
 
 .navbuttons {
@@ -40,7 +41,6 @@ nav {
 
 .banner myheader col-12 {
 	background-color: aliceblue;
-	background-image: url("../images/movingbanner.gif");
 	width:900px;
 	height: 264px;
 	margin-left:auto;
